@@ -118,7 +118,7 @@ if(musicBtn){
 
 /* ---------- Đếm ngược ---------- */
 // Countdown — đặt đúng ngày giờ cưới tại đây
-const weddingDate = new Date('2026-10-25T07:00:00+07:00').getTime();
+const weddingDate = new Date('2026-10-25T10:00:00+07:00').getTime();
 
 function updateCountdown(){
   const now = Date.now();
